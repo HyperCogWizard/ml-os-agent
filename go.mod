@@ -4,7 +4,7 @@ go 1.22
 
 require (
 	github.com/coreos/go-systemd/v22 v22.5.0
-	github.com/cyphar/filepath-securejoin v0.2.5
+	github.com/cyphar/filepath-securejoin v0.6.1
 	github.com/fntlnz/mountinfo v1.0.1
 	github.com/getsentry/sentry-go v0.28.1
 	github.com/godbus/dbus/v5 v5.1.0
@@ -13,6 +13,6 @@ require (
 )
 
 require (
-	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/sys v0.26.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 )
